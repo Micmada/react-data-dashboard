@@ -10,7 +10,7 @@ A dynamic, customizable dashboard built with **React**, **React Grid Layout**, a
 **Add/Remove Widgets** – Customize your dashboard on the fly  
 **Responsive Design** – Works on all screen sizes  
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React** (Frontend Framework)  
 - **React Grid Layout** (Drag & Drop Layout System)  
