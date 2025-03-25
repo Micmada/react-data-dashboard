@@ -22,8 +22,8 @@ A dynamic, customizable dashboard built with **React**, **React Grid Layout**, a
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/Micmada/react-data-dashboard
+   cd react-data-dashboard
    ```
 
 2. **Install dependencies**
