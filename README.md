@@ -32,7 +32,7 @@ A dynamic, customizable dashboard built with **React**, **React Grid Layout**, a
 3. **Start the development server**
 ```npm start```
 
-4. **Open in browser***
+4. **Open in browser**
 
 Go to http://localhost:3000/
 
