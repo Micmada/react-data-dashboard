@@ -1,14 +1,14 @@
-# 📊 React Dashboard
+# React Dashboard
 
 A dynamic, customizable dashboard built with **React**, **React Grid Layout**, and **Tailwind CSS**. Allows users to add, remove, and rearrange widgets such as tables and charts.
 
 ## Features
 
-✅ **Drag & Drop Grid Layout** – Rearrange widgets easily  
-✅ **Dynamic Data Table** – Display data with selectable columns  
-✅ **Dropdown Menus** – Select which columns to show in tables  
-✅ **Add/Remove Widgets** – Customize your dashboard on the fly  
-✅ **Responsive Design** – Works on all screen sizes  
+**Drag & Drop Grid Layout** – Rearrange widgets easily  
+**Dynamic Data Table** – Display data with selectable columns  
+**Dropdown Menus** – Select which columns to show in tables  
+**Add/Remove Widgets** – Customize your dashboard on the fly  
+**Responsive Design** – Works on all screen sizes  
 
 ## 🛠 Tech Stack
 
@@ -18,7 +18,7 @@ A dynamic, customizable dashboard built with **React**, **React Grid Layout**, a
 - **Lucide React** (Icons)  
 - **React Router** (Navigation)  
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**  
    ```sh
