@@ -1,0 +1,30 @@
+{/* Widget Controls */}
+      <div className="flex gap-2 mb-4">
+        <button onClick={() => addWidget('table')} className="px-4 py-2 bg-green-500 text-white rounded-lg flex items-center gap-1">
+          <Plus size={16} /> Add Table
+        </button>
+        <button onClick={() => addWidget('chart')} className="px-4 py-2 bg-purple-500 text-white rounded-lg flex items-center gap-1">
+          <Plus size={16} /> Add Chart
+        </button>
+      </div>
+
+
+
+
+
+  const addWidget = (type) => {
+    const newWidget = {
+      i: Date.now().toString(),
+      x: (layout.length * 2) % 12,
+      y: Math.floor(layout.length / 2) * 2,
+      w: 4,
+      h: 3,
+      type
+    };
+    setLayout([...layout, newWidget]);
+  };
+
+  // Remove a widget
+  const removeWidget = (id) => {
+    setLayout(layout.filter(widget => widget.i !== id));
+  };
